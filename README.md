@@ -1,4 +1,4 @@
-# MobileNetV3-Small + 共形预测（C++ 重写版）
+# MobileNetV3-Small + 共形预测
 
 本项目已从 Python 重写为 C++17 版本，保留了“校准 + 预测集合 + 不确定性量化”的核心流程。
 
